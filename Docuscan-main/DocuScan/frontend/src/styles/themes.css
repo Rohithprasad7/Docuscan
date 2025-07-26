@@ -1,0 +1,13 @@
+/* Light Theme Styles */
+body.light {
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
+}
+
+/* Dark Theme Styles */
+body.dark {
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* White text */
+}
+
+/* Additional styling for buttons, headers, etc. can go here */
